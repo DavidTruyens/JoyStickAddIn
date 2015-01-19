@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="InventorAddIn1.Form1">
+    <Position X="5.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAgCAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Form1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventorAddIn1.PictureDispConverter">
+    <Position X="1" Y="0.75" Width="1.5" />
+    <NestedTypes>
+      <Class Name="InventorAddIn1.PictureDispConverter.PICTDESC" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PictureDispConverter.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAACAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PictureDispConverter.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventorAddIn1.InventorAddIn1.StandardAddInServer" BaseTypeListCollapsed="true">
+    <Position X="3.25" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AIEAAAAAAQBAABJAAAAgAAAIAAAAAAAIAAAABAAIAAI=</HashCode>
+      <FileName>StandardAddInServer.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.375" Collapsed="true" />
+  </Class>
+  <Module Name="InventorAddIn1.My.Resources.Resources">
+    <Position X="1" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAJEAAAAUAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

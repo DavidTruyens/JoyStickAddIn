@@ -1,0 +1,14 @@
+<Addin Type="Standard">
+  <!--Created for Autodesk Inventor Version 17.0-->
+  <ClassId>{5232abc7-9eb0-4192-8e61-278de9e5e336}</ClassId>
+  <ClientId>{5232abc7-9eb0-4192-8e61-278de9e5e336}</ClientId>
+  <DisplayName>AddIn_With_Document_Saved_Event</DisplayName>
+  <Description>Adds an OnDocumentSave event, Adds iProp to drawings</Description>
+  <Assembly>AddIn_With_Document_Saved_Event.dll</Assembly>
+  <LoadOnStartUp>1</LoadOnStartUp>
+  <UserUnloadable>1</UserUnloadable>
+  <Hidden>0</Hidden>
+  <SupportedSoftwareVersionGreaterThan>16..</SupportedSoftwareVersionGreaterThan>
+  <DataVersion>1</DataVersion>
+  <UserInterfaceVersion>1</UserInterfaceVersion>
+</Addin>
